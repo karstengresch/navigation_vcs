@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7CC2F38506C6F16C06D16FF267B68DA2E59C6ECF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F72B2FDFF60373FA17D68556B3115C74A66214FA" : 0,
+    "7CC2F38506C6F16C06D16FF267B68DA2E59C6ECF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "25238F46-C1C7-44B8-AEB7-86C6ECEF0A12",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F72B2FDFF60373FA17D68556B3115C74A66214FA" : "",
+    "7CC2F38506C6F16C06D16FF267B68DA2E59C6ECF" : "navigation_vcs\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Ratings",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Ratings\/Ratings\/Ratings.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/karstengresch\/navigation_vcs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7CC2F38506C6F16C06D16FF267B68DA2E59C6ECF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/karstengresch\/rw_studies.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F72B2FDFF60373FA17D68556B3115C74A66214FA"
+    }
+  ]
+}
